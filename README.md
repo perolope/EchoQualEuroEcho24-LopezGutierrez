@@ -1,6 +1,12 @@
 # Echocardiography Image Quality Assessment:  
 **Human Subjectivity and Artificial Intelligence Prediction in Multi-Centre Data**
 
+## Poster
+Click on the poster below to view the full PDF:  
+<a href="https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/poster_euroecho24.pdf">
+    <img src="https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/euroechoposeter.png" alt="EuroEcho 2024 Poster" width="500">
+</a>
+
 ## Authors
 P. Lopez-Gutierrez, A. Morales, L. Dux-Santoy, J. Garrido-Oliver, H. Majul, L. Rivas Catoni, S. Martin Grieve, G. Prado, J. Solsona, G. Casas-Masnou, G. Teixido-Tura, L. Galian-Gay, I. Ferreira-Gonzalez, J. Rodriguez-Palomares, A. Guala  
 **Affiliation**: University Hospital Vall d'Hebron, Barcelona, Spain
@@ -71,10 +77,3 @@ Cardiovascular Imaging Department
 Vall d'Hebron Institute of Research  
 Barcelona, Spain  
 Email: pere.lopez@vhir.org
-
-## Poster
-Click on the poster below to view the full PDF:  
-<a href="https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/poster_euroecho24.pdf">
-    <img src="https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/euroechoposeter.png" alt="EuroEcho 2024 Poster" width="500">
-</a>
-
