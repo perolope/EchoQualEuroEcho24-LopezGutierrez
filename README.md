@@ -71,3 +71,7 @@ Cardiovascular Imaging Department
 Vall d'Hebron Institute of Research  
 Barcelona, Spain  
 Email: pere.lopez@vhir.org
+
+## Poster
+You can view the full poster using the link below:  
+[EuroEcho 2024 Poster](https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/poster_euroecho24.pdf)
