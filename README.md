@@ -74,4 +74,5 @@ Email: pere.lopez@vhir.org
 
 ## Poster
 Click on the poster below to view the full PDF:  
-[![EuroEcho 2024 Poster](https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/euroechoposeter.png)](https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/poster_euroecho24.pdf)
+[![EuroEcho 2024 Poster](https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/euroechoposeter.png)](https://github.com/perolope/EchoQualEuroEcho24-LopezGutierrez/blob/main/poster_euroecho24.pdf){:width="300px"}
+
