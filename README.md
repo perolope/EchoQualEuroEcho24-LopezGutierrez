@@ -1,5 +1,5 @@
 # Echocardiography Image Quality Assessment:  
-**Human Subjectivity and Artificial Intelligence Prediction in Multi-Centre Data**
+## Human Subjectivity and Artificial Intelligence Prediction in Multi-Centre Data**
 
 ## Poster
 Click on the poster below to view the full PDF:  
