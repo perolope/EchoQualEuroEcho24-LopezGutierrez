@@ -23,7 +23,7 @@ Echocardiography image quality is crucial for accurate care, but its assessment 
 
 ## Methods
 - **Data Sources**:  
-  - 15,000 anonymized transthoracic echocardiograms (TTE) from Vall d’Hebron Hospital (VH).  
+  - 15,000 anonymized transthoracic echocardiograms (TTE) from Vall d’Hebron Hospital Universitari (VH).  
   - 1,000 videos from CAMUS database.
 - **Quality Metrics**:  
   1. **Border Definition**: Clarity of structure borders.  
