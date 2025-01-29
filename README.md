@@ -71,7 +71,7 @@ Echocardiography image quality is crucial for accurate care, but its assessment 
   - Instituto de Salud Carlos III (ISCIII)  
 
 ## Contact
-**Dr. Pere Lopez**  
+**Pere Lopez-Gutierrez**  
 Cardiovascular Imaging Department  
 Vall d'Hebron Institute of Research  
 Barcelona, Spain  
