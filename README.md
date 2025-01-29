@@ -8,6 +8,7 @@ Click on the poster below to view the full PDF:
 
 ## Authors
 P. Lopez-Gutierrez, A. Morales, L. Dux-Santoy, J. Garrido-Oliver, H. Majul, L. Rivas Catoni, S. Martin Grieve, G. Prado, J. Solsona, G. Casas-Masnou, G. Teixido-Tura, L. Galian-Gay, I. Ferreira-Gonzalez, J. Rodriguez-Palomares, A. Guala  
+
 **Affiliation**: University Hospital Vall d'Hebron, Barcelona, Spain
 
 ## Abstract
@@ -23,7 +24,7 @@ Echocardiography image quality is crucial for accurate care, but its assessment 
 
 ## Methods
 - **Data Sources**:  
-  - 15,000 anonymized transthoracic echocardiograms (TTE) from Vall d’Hebron Hospital Universitari (VH).  
+  - 15,000 anonymized transthoracic echocardiograms (TTE) from University Hospital Vall d'Hebron (VH).  
   - 1,000 videos from CAMUS database.
 - **Quality Metrics**:  
   1. **Border Definition**: Clarity of structure borders.  
